@@ -1,0 +1,306 @@
+{
+  "name": "Genuine / Full Fledge Sites",
+  "sites": [
+	{
+      "name": "1kb.club",
+      "href": "https://1kb.club/",
+      "tags": [
+        "tech",
+		"list"
+      ],
+      "description": "Sites less than 1kb."
+    },
+	{
+      "name": "250kb.club",
+      "href": "https://250kb.club/",
+      "tags": [
+        "tech",
+		"list"
+      ],
+      "description": "Sites less than 250kb."
+    },
+	{
+      "name": "512kb.club",
+      "href": "https://512kb.club/",
+      "tags": [
+        "tech",
+		"list"
+      ],
+      "description": "Sites less than 512kb."
+    },
+	{
+      "name": "1mb.club",
+      "href": "https://1mb.club/",
+      "tags": [
+        "tech",
+		"list"
+      ],
+      "description": "Sites less than 1mb."
+    },
+	{
+      "name": "based.cooking",
+      "href": "http://based.cooking/",
+      "tags": [
+        "food",
+        "recipe",
+        "how to"
+      ],
+      "description": "Food recipes curated by Luke Smith."
+    },
+	{
+      "name": "booru.soy",
+      "href": "http://booru.soy/",
+      "tags": [
+        "booru",
+        "wojak",
+        "image"
+      ],
+      "description": "Booru for soyjaks."
+    },
+	{
+      "name": "catbox.moe",
+      "href": "http://catbox.moe/",
+      "tags": [
+        "filehost",
+        "anime"
+      ],
+      "description": "Anime themed file host."
+    },
+	{
+      "name": "cocaine.ninja",
+      "href": "https://cocaine.ninja/",
+      "tags": [
+        "filehost",
+		"anime"
+      ],
+      "description": "Anime themed file host."
+    },
+	{
+      "name": "codeberg.page",
+      "href": "http://codeberg.page/",
+      "tags": [
+        "host"
+      ],
+      "description": "Static website host."
+    },
+	{
+      "name": "coom.tech",
+      "href": "http://coom.tech/",
+      "tags": [],
+      "description": "Main site for the now dead /cumg/ on /g/."
+    },
+	{
+      "name": "cubari.moe",
+      "href": "https://cubari.moe/",
+      "tags": [
+		"proxy", 
+		"image", 
+		"image viewer"
+      ],
+      "description": "Image proxy/viewer that displays pictures from numerous sites in comic book form."
+    },
+	{
+      "name": "cunny.store",
+      "href": "http://cunny.store/",
+      "tags": [
+        "store",
+		"shopping"
+      ],
+      "description": "An online clothes store with a very unfortunate name."
+    },
+	{
+      "name": "fedora.email",
+      "href": "https://fedora.email/",
+      "tags": [
+		"email"
+      ],
+      "description": "E-mail service."
+    },
+	{
+      "name": "jpg.pet",
+      "href": "https://jpg.pet/",
+      "tags": [
+        "filehost"
+      ],
+      "description": "Image host."
+    },
+	{
+      "name": "lobste.rs",
+      "href": "https://lobste.rs/",
+      "tags": [
+        "tech",
+        "computer"
+      ],
+      "description": "Lobsters is a computing-focused community centered around link aggregation and discussion."
+    },
+	{
+      "name": "playclassic.games",
+      "href": "http://playclassic.games/",
+      "tags": [
+        "games",
+        "retro"
+      ],
+      "description": "Download or play retro games."
+    },
+	{
+      "name": "mil.house",
+      "href": "http://mil.house/",
+      "tags": [
+		"cartoon",
+		"The Simpsons"
+      ],
+      "description": "Site dedicated to from memory drawings of Milhouse."
+    },
+	{
+      "name": "neko.center",
+      "href": "https://neko.center/",
+      "tags": [
+		"community",
+		"game",
+		"minecraft",
+		"anime"
+      ],
+      "description": "Minecraft skin host."
+    },
+	{
+      "name": "neko.page",
+      "href": "https://neko.page/",
+      "tags": [
+		"tech",
+		"business",
+		"animal"
+      ],
+      "description": "Documents for some tech company named 'Noraneko Inc'."
+    },
+	{
+      "name": "neko.porn",
+      "href": "https://neko.porn/",
+      "tags": [
+		"pornography",
+		"anime",
+		"cosplay"
+      ],
+      "description": "Porn site for anime cosplay."
+    },
+	{
+      "name": "neko.studio",
+      "href": "https://neko.studio/",
+      "tags": [
+		"tech",
+		"business"
+      ],
+      "description": "Some kind of tech site(???)"
+    },
+	{
+      "name": "neko.vision",
+      "href": "https://neko.center/",
+      "tags": [
+		"crypto",
+		"NFT",
+		"animal"
+      ],
+      "description": "Cat-themed NFTs."
+    },
+	{
+      "name": "neko.works",
+      "href": "https://www.neko.works/",
+      "tags": [
+        "game",
+		"tech",
+		"business"
+      ],
+      "description": "Indie game studio."
+    },
+	{
+      "name": "red.blue",
+      "href": "https://www.red.blue/",
+      "tags": [
+        "business",
+		"tech"
+      ],
+      "description": "Website to a global venture capital firm."
+    },
+	{
+      "name": "searx.space",
+      "href": "https://searx.space/",
+      "tags": [
+        "technology"
+      ],
+      "description": "Online and offline Searx instances."
+    },
+	{
+      "name": "sizeof.cat",
+      "href": "https://sizeof.cat/",
+      "tags": [
+        "privacy",
+        "security",
+        "links"
+      ],
+      "description": "A long list of links from a security oriented site."
+    },
+	{
+      "name": "spidr.today",
+      "href": "https://spidr.today/",
+      "tags": [
+		"news",
+		"politics"
+	  ],
+      "description": "A good news aggregator"
+    },
+	{
+      "name": "soyjak.download",
+      "href": "http://soyjak.download/",
+      "tags": [
+        "filehost",
+		"wojak"
+      ],
+      "description": "A soyjak themed file host."
+    },
+	{
+      "name": "soyjak.wiki",
+      "href": "http://soyjak.wiki/",
+      "tags": [
+        "wikipedia",
+		"wojak"
+      ],
+      "description": "A wikipedia page dedicated to 'soyjak lore'."
+    },
+	{
+      "name": "trace.moe",
+      "href": "https://trace.moe/",
+      "tags": [
+        "Anime",
+        "image",
+        "Anime"
+      ],
+      "description": "A search engine for anime screenshots. Won't work with crops. It will give episode and timestamp of a good screenshot."
+    },
+	{
+      "name": "terminal.sexy",
+      "href": "https://terminal.sexy/",
+      "tags": [
+		"terminal",
+		"tech"
+	  ],
+      "description": "Terminal color scheme designer."
+    },
+	{
+      "name": "textonly.webiste",
+      "href": "https://textonly.website/",
+      "tags": [
+		"tech",
+		"collection",
+		"list"
+	  ],
+      "description": "Lists a bunch of text-only sites."
+    },
+	{
+      "name": "white.cat",
+      "href": "http://white.cat/",
+      "tags": [
+        "animal"
+      ],
+      "description": "Spanish site about the animals at Barcelona zoo."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Special thanks to these guys",
+  "sites": [
+    {
+      "name": "sites.baka.best",
+      "href": "https://sites.baka.best/",
+      "tags": [
+        "mirror",
+        "links",
+        "good-sites",
+        "goodsites",
+        "waifu"
+      ],
+      "description": "The first mirror of g/good-sites."
+    },
+    {
+      "name": "based.coom.tech",
+      "href": "https://based.coom.tech/",
+      "tags": [
+        "mirror",
+        "links",
+        "good-sites",
+        "goodsites",
+        "waifu"
+      ],
+      "description": "The current maintainer of the /g/ good sites project."
+    },
+    {
+      "name": "git.coom.tech/g/good-sites",
+      "href": "https://git.coom.tech/g/good-sites",
+      "tags": [
+        "mirror",
+        "links",
+        "good-sites",
+        "goodsites",
+        "git"
+      ],
+      "description": "The git respository for these links."
+    }
+  ]
+}

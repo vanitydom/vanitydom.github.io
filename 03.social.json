@@ -1,0 +1,372 @@
+{
+  "name": "Social Sites",
+  "sites": [
+	{
+      "name": "8chan.moe",
+      "href": "http://8chan.moe/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "8kun.top",
+      "href": "http://8kun.top/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "alog.space",
+      "href": "http://alog.space/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "anon.cafe",
+      "href": "http://anon.cafe/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "brainworm.rodeo",
+      "href": "http://brainworm.rodeo/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "brainworm.surgery",
+      "href": "http://brainworm.surgery/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "calckey.social",
+      "href": "https://calckey.social/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "chaos.social",
+      "href": "https://chaos.social/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "crystal.cafe",
+      "href": "http://crystal.cafe/",
+      "tags": [
+        "imageboard",
+        "anime",
+        "female",
+		"discussion"
+      ],
+      "description": "Imageboard for women and radfem ideology."
+    },
+	{
+      "name": "dads.cool",
+      "href": "https://dads.cool/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "fish.lgbt",
+      "href": "http://fish.lgbt/",
+      "tags": [
+        "forum"
+      ],
+      "description": ""
+    },
+	{
+      "name": "freeradical.zone",
+      "href": "https://freeradical.zone/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "gremlins.social",
+      "href": "https://gremlins.social/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "hackers.town",
+      "href": "https://hackers.town/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "hidamari.apartments",
+      "href": "https://hidamari.apartments/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog",
+		"anime"
+      ],
+      "description": "Fediverse instance."
+    },
+	{
+      "name": "infosec.exchange",
+      "href": "https://infosec.exchange/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "journa.host",
+      "href": "https://journa.host/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "lolcow.farm",
+      "href": "http://lolcow.farm/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "mastodon.green",
+      "href": "https://mastodon.green/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "mastodon.social",
+      "href": "https://mastodon.social/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "mastodon.world",
+      "href": "https://mastodon.world/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "mstdn.social",
+      "href": "https://mstdn.social/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "neko.academy",
+      "href": "https://neko.academy/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "neko.computer",
+      "href": "https://neko.computer/",
+      "tags": [
+        "fediverse",
+		"microblog",
+		"pleroma"
+      ],
+      "description": "Pleroma instance."
+    },
+	{
+      "name": "queer.party",
+      "href": "https://queer.party/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "social.lol",
+      "href": "https://social.lol/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "soyjak.party",
+      "href": "http://soyjak.party/",
+      "tags": [
+        "imageboard",
+        "wojak",
+		"discussion"
+      ],
+      "description": "Imageboard where teenagers post 'soyjaks'."
+    },
+	{
+      "name": "smuglo.li",
+      "href": "http://smuglo.li/",
+      "tags": [
+        "imageboard",
+		"discussion"
+      ],
+      "description": "Imageboard where teenagers post 'soyjaks'."
+    },
+	{
+      "name": "tapbots.social",
+      "href": "https://tapbots.social/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "tech.lgbt",
+      "href": "https://tech.lgbt/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "tilde.club",
+      "href": "http://tilde.club/",
+      "tags": [
+        "unix",
+        "computer",
+        "community",
+		"webring"
+      ],
+      "description": "Website for a webring called 'tilde club'."
+    },
+	{
+      "name": "tox.chat",
+      "href": "https://tox.chat/",
+      "tags": [
+		"message"
+	  ],
+      "description": "Tox protocol."
+    },
+	{
+      "name": "trashchan.xyz",
+      "href": "http://trashchan.xyz/boards.html",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "tvch.moe",
+      "href": "http://tvch.moe/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "wandering.shop",
+      "href": "https://wandering.shop/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "writing.exchange",
+      "href": "https://writing.exchange/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
+      "name": "yakui.moe",
+      "href": "http://yakui.moe/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    },
+	{
+      "name": "zzzchan.xyz",
+      "href": "http://zzzchan.xyz/",
+      "tags": [
+        "imageboard",
+        "discussion"
+      ],
+      "description": "Imageboard."
+    }
+  ]
+}

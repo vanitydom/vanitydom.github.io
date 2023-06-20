@@ -1,0 +1,259 @@
+{
+  "name": "Redirects",
+  "sites": [
+	{
+      "name": "420blaze.it",
+      "href": "https://420blaze.it/",
+      "tags": [
+        "redirect"
+      ],
+      "description": "Redirects to airmail.cc."
+    },
+	{
+      "name": "baka.best",
+      "href": "https://baka.best/",
+      "tags": [
+        "redirect",
+        "imageboard"
+      ],
+      "description": "Redirects to 28chan.org."
+    },
+	{
+      "name": "cheese.pizza",
+      "href": "http://cheese.pizza/",
+      "tags": [
+        "redirect",
+		"blog",
+		"personal"
+      ],
+      "description": "Redirects to someone's personal site."
+    },
+	{
+      "name": "cunny.cafe",
+      "href": "https://cunny.cafe/",
+      "tags": [
+        "Youtube",
+        "anime",
+        "redirect",
+		"troll"
+      ],
+      "description": "Redirects to every /f/ellow's favorite video."
+    },
+	{
+      "name": "cunny.dev",
+      "href": "https://cunny.dev/",
+      "tags": [
+        "Youtube",
+		"GochiUsa",
+        "anime",
+        "redirect",
+		"troll"
+      ],
+      "description": "Redirects to the outro for GochiUsa."
+    },
+	{
+      "name": "cunny.games",
+      "href": "https://cunny.games/",
+      "tags": [
+        "Blue Archive",
+        "anime",
+        "redirect",
+		"Youtube"
+      ],
+      "description": "Redirects to a site for Blue Archive."
+    },
+	{
+      "name": "cunny.mov",
+      "href": "https://cunny.mov/",
+      "tags": [
+        "Blue Archive",
+        "anime",
+        "redirect",
+		"Youtube"
+      ],
+      "description": "Redirects to a Youtube video of some guy ranking Blue Archive characters."
+    },
+	{
+      "name": "cunny.school",
+      "href": "https://cunny.school/",
+      "tags": [
+        "Blue Archive",
+        "anime",
+        "redirect"
+      ],
+      "description": "Redirects to the same fucking site for Blue Archive."
+    },
+	{
+      "name": "cute.lgbt",
+      "href": "http://cute.lgbt/",
+      "tags": [
+        "Youtube",
+        "anime",
+        "redirect",
+		"animal",
+		"cat"
+      ],
+      "description": "Redirects to a video of a cat sucking on a binky."
+    },
+	{
+      "name": "dicksinhisan.us",
+      "href": "https://dicksinhisan.us/",
+      "tags": [
+        "redirect"
+      ],
+      "description": "Redirects to cock.li."
+    },
+	{
+      "name": "dicksinmyan.us",
+      "href": "https://dicksinmyan.us/",
+      "tags": [
+        "redirect"
+      ],
+      "description": "Redirects to cock.li (again)."
+    },
+	{
+      "name": "islam.apartments",
+      "href": "https://islam.apartment/",
+      "tags": [
+        "redirect",
+		"religion"
+      ],
+      "description": "Redirects to some kind of Islamic themed search engine."
+    },
+	{
+      "name": "islam.attorney",
+      "href": "https://islam.attorney/",
+      "tags": [
+        "redirect",
+		"religion"
+      ],
+      "description": "Redirects to the same Islamic themed search engine."
+    },
+	{
+      "name": "islam.coffe",
+      "href": "https://islam.coffe/",
+      "tags": [
+        "redirect",
+		"religion"
+      ],
+      "description": "Once again, the same Islamic themed search engine."
+    },
+	{
+      "name": "islam.church",
+      "href": "https://islam.church/",
+      "tags": [
+        "redirect",
+		"religion"
+      ],
+      "description": "Redirects to a site for upcomig Islamic events."
+    },
+	{
+      "name": "islam.exposed",
+      "href": "https://islam.exposed/",
+      "tags": [
+        "redirect",
+		"religion"
+      ],
+      "description": "Redirects to a site for Islam."
+    },
+	{
+      "name": "jak.soy",
+      "href": "https://jak.soy/",
+      "tags": [
+        "redirect",
+		"discord"
+      ],
+      "description": "Redirects to a discord invite."
+    },
+	{
+      "name": "jpg.church",
+      "href": "https://jpg.church/",
+      "tags": [
+        "filehost",
+		"redirect"
+      ],
+      "description": "Redirects to jpg.pet."
+    },
+	{
+      "name": "liar.com",
+      "href": "https://liar.com/",
+      "tags": [
+        "redirect",
+        "politics",
+        "wikipedia",
+		"Canada"
+      ],
+      "description": "Redirects to the Wikipedia page of <i>Justin Trudeau</i>."
+    },
+	{
+      "name": "neko.bio",
+      "href": "https://neko.bio/",
+      "tags": [
+        "redirect",
+        "personal"
+      ],
+      "description": "Redirects to someone's personal site(?)"
+    },
+	{
+      "name": "neko.exposed",
+      "href": "http://neko.exposed/",
+      "tags": [
+        "redirect",
+        "Twitter"
+      ],
+      "description": "Redirects to someone's VRChat Twitter."
+    },
+	{
+      "name": "nigga.bet",
+      "href": "http://nigga.bet/",
+      "tags": [
+        "redirect",
+        "discord"
+      ],
+      "description": "Redirects to discord invite."
+    },
+	{
+      "name": "nigga.bio",
+      "href": "https://nigga.bio/",
+      "tags": [
+        "redirect",
+        "biography"
+      ],
+      "description": "Redirects to a site offering hosting for personal bios."
+    },
+	{
+      "name": "nigga.bond",
+      "href": "https://nigga.bond/",
+      "tags": [
+        "redirect",
+        "biography"
+      ],
+      "description": "Redirects to investion.top. It has a gif of an 8-bit guy looking comfy on it."
+    },
+	{
+      "name": "sleepyti.me",
+      "href": "https://sleepyti.me/",
+      "tags": [
+		"clock"
+	  ],
+      "description": "Redirects to a bed time calculator."
+    },
+	{
+      "name": "tfwno.gf",
+      "href": "https://tfwno.gf/",
+      "tags": [
+        "redirect",
+        "email"
+      ],
+      "description": "Redirects to cock.li (once more)."
+    },
+	{
+      "name": "waifu.club",
+      "href": "https://waifu.club/",
+      "tags": [
+        "redirect"
+      ],
+      "description": "Redirects to airmail.cc."
+    }
+  ]
+}

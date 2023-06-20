@@ -1,0 +1,304 @@
+{
+  "name": "People's Personal Sites",
+  "sites": [
+	{
+      "name": "b0ba.dev",
+      "href": "https://b0ba.dev/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "carmody.me",
+      "href": "https://carmody.me/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "cosmo.red",
+      "href": "https://cosmo.red/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "consoom.soy",
+      "href": "https://www.consoom.soy/",
+      "tags": [
+        "personal",
+		"tech",
+		"society",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "copypaste.wtf",
+      "href": "http://copypaste.wtf/",
+      "tags": [
+        "blog",
+        "personal"
+      ],
+      "description": "Personal site of Fredrick Brennan (AKA copypaste)."
+    },
+	{
+      "name": "cunny.fun",
+      "href": "https://cunny.fun/",
+      "tags": [
+        "anime",
+		"artist",
+		"personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "cunny.zone",
+      "href": "https://cunny.zone/",
+      "tags": [
+        "personal",
+		"anime",
+		"Japan"
+      ],
+      "description": ""
+    },
+	{
+      "name": "danielsada.tech",
+      "href": "https://danielsada.tech/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "doll.house",
+      "href": "https://doll.house/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "exo.pet",
+      "href": "https://exo.pet/",
+      "tags": [
+        "personal",
+		"retro"
+      ],
+      "description": ""
+    },
+	{
+      "name": "hen.re",
+      "href": "https://hen.re/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "lejtzen.dev",
+      "href": "https://lejtzen.dev/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "lil.gay",
+      "href": "https://lil.gay/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "jlelse.dev",
+      "href": "https://jlelse.dev/",
+      "tags": [
+        "personal",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.airforce",
+      "href": "http://neko.airforce/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.dev",
+      "href": "https://neko.dev/",
+      "tags": [
+        "personal",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.fan",
+      "href": "https://neko.fan/",
+      "tags": [
+        "personal",
+		"blog",
+		"anime"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.garden",
+      "href": "https://neko.garden/",
+      "tags": [
+        "personal",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.life",
+      "href": "https://neko.life/",
+      "tags": [
+        "personal",
+		"blog",
+		"Japan"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.stream",
+      "href": "http://neko.stream/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "neko.style",
+      "href": "http://neko.style/",
+      "tags": [
+        "personal",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "nigga.cc",
+      "href": "https://nigga.cc/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
+      "name": "nil.day",
+      "href": "https://nil.day/",
+      "tags": [
+        "personal",
+		"Japan"
+      ],
+      "description": ""
+    },
+	{
+      "name": "pedantic.software",
+      "href": "https://pedantic.software/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "pink.red",
+      "href": "https://pink.red/",
+      "tags": [
+        "personal",
+		"art"
+      ],
+      "description": ""
+    },
+	{
+      "name": "salejandro.me",
+      "href": "https://salejandro.me/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "samhenri.gold",
+      "href": "https://samhenri.gold/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "summer.dev",
+      "href": "https://summer.dev/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "tom.kobalt.dev",
+      "href": "https://tom.kobalt.dev/",
+      "tags": [
+        "personal",
+		"tech",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "vanzasetia.site",
+      "href": "https://vanzasetia.site/",
+      "tags": [
+        "personal",
+		"tech",
+		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "volatile.engineering",
+      "href": "https://volatile.engineering/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "xnaas.info",
+      "href": "https://xnaas.info/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "xwx.moe",
+      "href": "https://xwx.moe/",
+      "tags": [
+        "personal",
+		"tech",
+		"anime"
+      ],
+      "description": ""
+    }
+  ]
+}

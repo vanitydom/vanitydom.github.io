@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Vanity Domains</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .js {
+            display: none;
+        }
+    </style>
+    <script>
+        const el = document.createElement('style');
+        el.type = 'text/css';
+        el.innerText = `.js { display: initial !important}`;
+        document.head.appendChild(el);
+    </script>
+    <script src="waifugenerator.js"></script>
+    <script src="main.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A collection of vanity domains.">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+</head>
+
+<body theme="light">
+    <div class="js">
+        <img id="waifu"></img>
+    </div>
+    <div class="container">
+        <div class="glitch" data-text="Vanity Domains">Vanity Domains</div>
+        <div class="news">
+            <b class="update">Last update: Saturday June 10, 2023</b>
+            <br>
+            <br>
+            A collection of vanity domains hosting a variety of content, mainly for fun, but sometimes they've got genuine stuff on there.
+			<br>
+			Redirects are also listed as well, if they're in the same spirit as most vanity domains.
+			<br>
+			<br>
+			<b>WARN:</b> Some of the sites on here aren't always for everyone, browse at your own risk. They also don't reflect this site's own views and are here for showcase purposes.
+            <br>
+			<br>
+			If you have any suggestions, feel free to email me: <a href="mailto:vanityd@proton.me">vanityd@proton.me</a>
+			<br>
+			<br>
+            current link count:<b> 159</b>
+        </div>
+        <div class="js">
+            <details id="changeWidget" class="change hidden collapsed">
+                <summary class="cat">Changes</summary>
+                <input id="timeslider" type="range" value="1" min="0" max="1" step="1">
+                <h3 class="cat" id="changeTime"></h3>
+                <div class="summary">
+                    <div>
+                        <h3 class="cat green">Added</h3>
+                        <div class="listing" id="added"></div>
+                    </div>
+                    <div>
+                        <h3 class="cat red">Removed</h3>
+                        <div class="listing" id="removed"></div>
+                    </div>
+                </div>
+            </details>
+        </div>
+
+        <div class="links">
+            <div class="js">
+                <div class="controls">
+                    <input type="text" id="search" onkeyup="search();" autocomplete="off" placeholder="Search">
+                    <div class="flex-spacer"></div>
+                    <button class="random" onclick="openStuff();">Random</button>
+                </div>
+            </div>
+
+            <ul id="sites">
+                <li><span>
+                        <h3 class="cat">Small &#x2F; Joke Sites:</h3>
+                    </span></li>
+                <li><span><a title=" text  joke " href="https://bestmotherfucking.website/" target="_blank">bestmotherfucking.website</a> -
+                        The best motherfucking website on the web!</span></li>
+                <li><span><a title=" Beavis and Butthead  cartoon " href="https://cornhol.io/" target="_blank">cornhol.io</a> -
+                        Text Art of the character Cornholio.</span></li>
+                <li><span><a title=" Lighting McQueen  Cars  joke " href="http://cumallover.me/" target="_blank">cumallover.me</a> -
+                        Displays a png of Lightning McQueen against a rainbow background.</span></li>
+                <li><span><a title=" anime  vtuber " href="https://cunny.company/" target="_blank">cunny.company</a> -
+                        Displays a Live2D model that stares at your cursor.</span></li>
+                <li><span><a title=" text " href="https://cunny.top/" target="_blank">cunny.top</a> -
+                        hello</span></li>
+                <li><span><a title=" joke  retro " href="https://www.deathcult.fun/" target="_blank">deathcult.fun</a> -
+                        Site that welcomes you to the INTERNET DEATH-CULT of FUN.</span></li>
+                <li><span><a title=" random  video  memes  funny " href="https://disc0rd.xyz/" target="_blank">disc0rd.xyz</a> -
+                        Shows you a random video everytime you refresh.</span></li>
+                <li><span><a title=" gif " href="https://investion.top/" target="_blank">investion.top</a> -
+                        Has a gif of an 8-bit guy looking comfy in his room.</span></li>
+                <li><span><a title=" text " href="https://localnotes.page/" target="_blank">localnotes.page</a> -
+                        In browser notepad.</span></li>
+                <li><span><a title=" retro  geocities " href="https://makefrontendshitagain.party/" target="_blank">makefrontendshitagain.party</a> -
+                        A site that advocates for more soulful frontends.</span></li>
+                <li><span><a title=" Kill la Kill  anime  video  loop " href="http://naniso.re/" target="_blank">naniso.re</a> -
+                        A music video of Kill la Kill's Nonon. (plus others!)</span></li>
+                <li><span><a title=" racism  joke  anime  video " href="https://nazi.moe/" target="_blank">nazi.moe</a> -
+                        Nazi anime girls.</span></li>
+                <li><span><a title=" image " href="https://neko.business/" target="_blank">neko.business</a> -
+                        Picture of furry fox.</span></li>
+                <li><span><a title=" image  anime " href="https://neko.community/" target="_blank">neko.community</a> -
+                        Community for neko lovers (with anime pictures).</span></li>
+                <li><span><a title="" href="https://neko.pink/" target="_blank">neko.pink</a> -
+                        Some site that's under construction.</span></li>
+                <li><span><a title=" image  anime " href="https://neko.pizza/" target="_blank">neko.pizza</a> -
+                        Picture of a catgirl eatings pizza.</span></li>
+                <li><span><a title=" image  sci-fi  random " href="https://neko.run/" target="_blank">neko.run</a> -
+                        Shows you a random Sci-Fi picture.</span></li>
+                <li><span><a title=" text  anime " href="https://neko.tax/" target="_blank">neko.tax</a> -
+                        Pay your taxes!!</span></li>
+                <li><span><a title=" image " href="https://neko.website/" target="_blank">neko.website</a> -
+                        Picture of an ocean sunset.</span></li>
+                <li><span><a title=" racism  joke " href="https://nigga.party/" target="_blank">nigga.party</a> -
+                        What I can only assume is an "advertisment" for the 'Nigga Party'.</span></li>
+                <li><span><a title=" racism  joke " href="https://nigga.agency/" target="_blank">nigga.agency</a> -
+                        A clip of George Floyd playing and fps game.</span></li>
+                <li><span><a title=" webring  community  list " href="https://nocss.club/" target="_blank">nocss.club</a> -
+                        A site listing other sites with no CSS.</span></li>
+                <li><span><a title="" href="https://onwednesdayswewear.pink/" target="_blank">onwednesdayswewear.pink</a> -
+                        On wednesdays we wear pink. That's pretty much it.</span></li>
+                <li><span><a title=" anime " href="https://satania.moe/" target="_blank">satania.moe</a> -
+                        Fan site for the character Satania.</span></li>
+                <li><span><a title=" Youtube  video  music " href="https://toto.africa/" target="_blank">toto.africa</a> -
+                        Plays the music video for Toto's Africa.</span></li>
+                <li><span>
+                        <h3 class="cat">Genuine &#x2F; Full Fledge Sites:</h3>
+                    </span></li>
+                <li><span><a title=" tech  list " href="https://1kb.club/" target="_blank">1kb.club</a> -
+                        Sites less than 1kb.</span></li>
+                <li><span><a title=" tech  list " href="https://250kb.club/" target="_blank">250kb.club</a> -
+                        Sites less than 250kb.</span></li>
+                <li><span><a title=" tech  list " href="https://512kb.club/" target="_blank">512kb.club</a> -
+                        Sites less than 512kb.</span></li>
+                <li><span><a title=" tech  list " href="https://1mb.club/" target="_blank">1mb.club</a> -
+                        Sites less than 1mb.</span></li>
+                <li><span><a title=" food  recipe  how to " href="http://based.cooking/" target="_blank">based.cooking</a> -
+                        Food recipes curated by Luke Smith.</span></li>
+                <li><span><a title=" booru  wojak  image " href="http://booru.soy/" target="_blank">booru.soy</a> -
+                        Booru for soyjaks.</span></li>
+                <li><span><a title=" filehost  anime " href="http://catbox.moe/" target="_blank">catbox.moe</a> -
+                        Anime themed file host.</span></li>
+                <li><span><a title=" filehost  anime " href="https://cocaine.ninja/" target="_blank">cocaine.ninja</a> -
+                        Anime themed file host.</span></li>
+                <li><span><a title=" host " href="http://codeberg.page/" target="_blank">codeberg.page</a> -
+                        Static website host.</span></li>
+                <li><span><a title="" href="http://coom.tech/" target="_blank">coom.tech</a> -
+                        Main site for the now dead /cumg/ on /g/.</span></li>
+                <li><span><a title=" proxy  image  image viewer " href="https://cubari.moe/" target="_blank">cubari.moe</a> -
+                        Image proxy/viewer that displays pictures from numerous sites in comic book form.</span></li>
+                <li><span><a title=" store  shopping " href="http://cunny.store/" target="_blank">cunny.store</a> -
+                        An online clothes store with a very unfortunate name.</span></li>
+                <li><span><a title=" email " href="https://fedora.email/" target="_blank">fedora.email</a> -
+                        E-mail service.</span></li>
+                <li><span><a title=" filehost " href="https://jpg.pet/" target="_blank">jpg.pet</a> -
+                        Image host.</span></li>
+                <li><span><a title=" tech  computer " href="https://lobste.rs/" target="_blank">lobste.rs</a> -
+                        Lobsters is a computing-focused community centered around link aggregation and discussion.</span></li>
+                <li><span><a title=" games  retro " href="http://playclassic.games/" target="_blank">playclassic.games</a> -
+                        Download or play retro games.</span></li>
+                <li><span><a title=" cartoon  The Simpsons " href="http://mil.house/" target="_blank">mil.house</a> -
+                        Site dedicated to from memory drawings of Milhouse.</span></li>
+                <li><span><a title=" community  game  minecraft  anime " href="https://neko.center/" target="_blank">neko.center</a> -
+                        Minecraft skin host.</span></li>
+                <li><span><a title=" tech  business  animal " href="https://neko.page/" target="_blank">neko.page</a> -
+                        Documents for some tech company named 'Noraneko Inc'.</span></li>
+                <li><span><a title=" pornography  anime  cosplay " href="https://neko.porn/" target="_blank">neko.porn</a> -
+                        Porn site for anime cosplay.</span></li>
+                <li><span><a title=" tech  business " href="https://neko.studio/" target="_blank">neko.studio</a> -
+                        Some kind of tech site(???)</span></li>
+                <li><span><a title=" crypto  NFT  animal " href="https://neko.center/" target="_blank">neko.vision</a> -
+                        Cat-themed NFTs.</span></li>
+                <li><span><a title=" game  tech  business " href="https://www.neko.works/" target="_blank">neko.works</a> -
+                        Indie game studio.</span></li>
+                <li><span><a title=" business  tech " href="https://www.red.blue/" target="_blank">red.blue</a> -
+                        Website to a global venture capital firm.</span></li>
+                <li><span><a title=" technology " href="https://searx.space/" target="_blank">searx.space</a> -
+                        Online and offline Searx instances.</span></li>
+                <li><span><a title=" privacy  security  links " href="https://sizeof.cat/" target="_blank">sizeof.cat</a> -
+                        A long list of links from a security oriented site.</span></li>
+                <li><span><a title=" news  politics " href="https://spidr.today/" target="_blank">spidr.today</a> -
+                        A good news aggregator</span></li>
+                <li><span><a title=" filehost  wojak " href="http://soyjak.download/" target="_blank">soyjak.download</a> -
+                        A soyjak themed file host.</span></li>
+                <li><span><a title=" wikipedia  wojak " href="http://soyjak.wiki/" target="_blank">soyjak.wiki</a> -
+                        A wikipedia page dedicated to 'soyjak lore'.</span></li>
+                <li><span><a title=" Anime  image  Anime " href="https://trace.moe/" target="_blank">trace.moe</a> -
+                        A search engine for anime screenshots. Won't work with crops. It will give episode and timestamp of a good screenshot.</span></li>
+                <li><span><a title=" terminal  tech " href="https://terminal.sexy/" target="_blank">terminal.sexy</a> -
+                        Terminal color scheme designer.</span></li>
+                <li><span><a title=" tech  collection  list " href="https://textonly.website/" target="_blank">textonly.webiste</a> -
+                        Lists a bunch of text-only sites.</span></li>
+                <li><span><a title=" animal " href="http://white.cat/" target="_blank">white.cat</a> -
+                        Spanish site about the animals at Barcelona zoo.</span></li>
+                <li><span>
+                        <h3 class="cat">Redirects:</h3>
+                    </span></li>
+                <li><span><a title=" redirect " href="https://420blaze.it/" target="_blank">420blaze.it</a> -
+                        Redirects to airmail.cc.</span></li>
+                <li><span><a title=" redirect  imageboard " href="https://baka.best/" target="_blank">baka.best</a> -
+                        Redirects to 28chan.org.</span></li>
+                <li><span><a title=" redirect  blog  personal " href="http://cheese.pizza/" target="_blank">cheese.pizza</a> -
+                        Redirects to someone's personal site.</span></li>
+                <li><span><a title=" Youtube  anime  redirect  troll " href="https://cunny.cafe/" target="_blank">cunny.cafe</a> -
+                        Redirects to every /f/ellow's favorite video.</span></li>
+                <li><span><a title=" Youtube  GochiUsa  anime  redirect  troll " href="https://cunny.dev/" target="_blank">cunny.dev</a> -
+                        Redirects to the outro for GochiUsa.</span></li>
+                <li><span><a title=" Blue Archive  anime  redirect  Youtube " href="https://cunny.games/" target="_blank">cunny.games</a> -
+                        Redirects to a site for Blue Archive.</span></li>
+                <li><span><a title=" Blue Archive  anime  redirect  Youtube " href="https://cunny.mov/" target="_blank">cunny.mov</a> -
+                        Redirects to a Youtube video of some guy ranking Blue Archive characters.</span></li>
+                <li><span><a title=" Blue Archive  anime  redirect " href="https://cunny.school/" target="_blank">cunny.school</a> -
+                        Redirects to the same fucking site for Blue Archive.</span></li>
+                <li><span><a title=" Youtube  anime  redirect  animal  cat " href="http://cute.lgbt/" target="_blank">cute.lgbt</a> -
+                        Redirects to a video of a cat sucking on a binky.</span></li>
+                <li><span><a title=" redirect " href="https://dicksinhisan.us/" target="_blank">dicksinhisan.us</a> -
+                        Redirects to cock.li.</span></li>
+                <li><span><a title=" redirect " href="https://dicksinmyan.us/" target="_blank">dicksinmyan.us</a> -
+                        Redirects to cock.li (again).</span></li>
+                <li><span><a title=" redirect  religion " href="https://islam.apartment/" target="_blank">islam.apartments</a> -
+                        Redirects to some kind of Islamic themed search engine.</span></li>
+                <li><span><a title=" redirect  religion " href="https://islam.attorney/" target="_blank">islam.attorney</a> -
+                        Redirects to the same Islamic themed search engine.</span></li>
+                <li><span><a title=" redirect  religion " href="https://islam.coffe/" target="_blank">islam.coffe</a> -
+                        Once again, the same Islamic themed search engine.</span></li>
+                <li><span><a title=" redirect  religion " href="https://islam.church/" target="_blank">islam.church</a> -
+                        Redirects to a site for upcomig Islamic events.</span></li>
+                <li><span><a title=" redirect  religion " href="https://islam.exposed/" target="_blank">islam.exposed</a> -
+                        Redirects to a site for Islam.</span></li>
+                <li><span><a title=" redirect  discord " href="https://jak.soy/" target="_blank">jak.soy</a> -
+                        Redirects to a discord invite.</span></li>
+                <li><span><a title=" filehost  redirect " href="https://jpg.church/" target="_blank">jpg.church</a> -
+                        Redirects to jpg.pet.</span></li>
+                <li><span><a title=" redirect  politics  wikipedia  Canada " href="https://liar.com/" target="_blank">liar.com</a> -
+                        Redirects to the Wikipedia page of <i>Justin Trudeau</i>.</span></li>
+                <li><span><a title=" redirect  personal " href="https://neko.bio/" target="_blank">neko.bio</a> -
+                        Redirects to someone's personal site(?)</span></li>
+                <li><span><a title=" redirect  Twitter " href="http://neko.exposed/" target="_blank">neko.exposed</a> -
+                        Redirects to someone's VRChat Twitter.</span></li>
+                <li><span><a title=" redirect  discord " href="http://nigga.bet/" target="_blank">nigga.bet</a> -
+                        Redirects to discord invite.</span></li>
+                <li><span><a title=" redirect  biography " href="https://nigga.bio/" target="_blank">nigga.bio</a> -
+                        Redirects to a site offering hosting for personal bios.</span></li>
+                <li><span><a title=" redirect  biography " href="https://nigga.bond/" target="_blank">nigga.bond</a> -
+                        Redirects to investion.top. It has a gif of an 8-bit guy looking comfy on it.</span></li>
+                <li><span><a title=" clock " href="https://sleepyti.me/" target="_blank">sleepyti.me</a> -
+                        Redirects to a bed time calculator.</span></li>
+                <li><span><a title=" redirect  email " href="https://tfwno.gf/" target="_blank">tfwno.gf</a> -
+                        Redirects to cock.li (once more).</span></li>
+                <li><span><a title=" redirect " href="https://waifu.club/" target="_blank">waifu.club</a> -
+                        Redirects to airmail.cc.</span></li>
+                <li><span>
+                        <h3 class="cat">Social Sites:</h3>
+                    </span></li>
+                <li><span><a title=" imageboard  discussion " href="http://8chan.moe/" target="_blank">8chan.moe</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://8kun.top/" target="_blank">8kun.top</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://alog.space/" target="_blank">alog.space</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://anon.cafe/" target="_blank">anon.cafe</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://brainworm.rodeo/" target="_blank">brainworm.rodeo</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://brainworm.surgery/" target="_blank">brainworm.surgery</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://calckey.social/" target="_blank">calckey.social</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://chaos.social/" target="_blank">chaos.social</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" imageboard  anime  female  discussion " href="http://crystal.cafe/" target="_blank">crystal.cafe</a> -
+                        Imageboard for women and radfem ideology.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://dads.cool/" target="_blank">dads.cool</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" forum " href="http://fish.lgbt/" target="_blank">fish.lgbt</a> -
+                        </span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://freeradical.zone/" target="_blank">freeradical.zone</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://gremlins.social/" target="_blank">gremlins.social</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://hackers.town/" target="_blank">hackers.town</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog  anime " href="https://hidamari.apartments/" target="_blank">hidamari.apartments</a> -
+                        Fediverse instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://infosec.exchange/" target="_blank">infosec.exchange</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://journa.host/" target="_blank">journa.host</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://lolcow.farm/" target="_blank">lolcow.farm</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://mastodon.green/" target="_blank">mastodon.green</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://mastodon.social/" target="_blank">mastodon.social</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://mastodon.world/" target="_blank">mastodon.world</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://mstdn.social/" target="_blank">mstdn.social</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://neko.academy/" target="_blank">neko.academy</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" fediverse  microblog  pleroma " href="https://neko.computer/" target="_blank">neko.computer</a> -
+                        Pleroma instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://queer.party/" target="_blank">queer.party</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://social.lol/" target="_blank">social.lol</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" imageboard  wojak  discussion " href="http://soyjak.party/" target="_blank">soyjak.party</a> -
+                        Imageboard where teenagers post 'soyjaks'.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://smuglo.li/" target="_blank">smuglo.li</a> -
+                        Imageboard where teenagers post 'soyjaks'.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://tapbots.social/" target="_blank">tapbots.social</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://tech.lgbt/" target="_blank">tech.lgbt</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" unix  computer  community  webring " href="http://tilde.club/" target="_blank">tilde.club</a> -
+                        Website for a webring called 'tilde club'.</span></li>
+                <li><span><a title=" message " href="https://tox.chat/" target="_blank">tox.chat</a> -
+                        Tox protocol.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://trashchan.xyz/boards.html" target="_blank">trashchan.xyz</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://tvch.moe/" target="_blank">tvch.moe</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://wandering.shop/" target="_blank">wandering.shop</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" mastodon  fediverse  microblog " href="https://writing.exchange/" target="_blank">writing.exchange</a> -
+                        Mastodon instance.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://yakui.moe/" target="_blank">yakui.moe</a> -
+                        Imageboard.</span></li>
+                <li><span><a title=" imageboard  discussion " href="http://zzzchan.xyz/" target="_blank">zzzchan.xyz</a> -
+                        Imageboard.</span></li>
+                <li><span>
+                        <h3 class="cat">People&#39;s Personal Sites:</h3>
+                    </span></li>
+                <li><span><a title=" personal  tech " href="https://b0ba.dev/" target="_blank">b0ba.dev</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="https://carmody.me/" target="_blank">carmody.me</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://cosmo.red/" target="_blank">cosmo.red</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech  society  blog " href="https://www.consoom.soy/" target="_blank">consoom.soy</a> -
+                        </span></li>
+                <li><span><a title=" blog  personal " href="http://copypaste.wtf/" target="_blank">copypaste.wtf</a> -
+                        Personal site of Fredrick Brennan (AKA copypaste).</span></li>
+                <li><span><a title=" anime  artist  personal " href="https://cunny.fun/" target="_blank">cunny.fun</a> -
+                        </span></li>
+                <li><span><a title=" personal  anime  Japan " href="https://cunny.zone/" target="_blank">cunny.zone</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://danielsada.tech/" target="_blank">danielsada.tech</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="https://doll.house/" target="_blank">doll.house</a> -
+                        </span></li>
+                <li><span><a title=" personal  retro " href="https://exo.pet/" target="_blank">exo.pet</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="https://hen.re/" target="_blank">hen.re</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://lejtzen.dev/" target="_blank">lejtzen.dev</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="https://lil.gay/" target="_blank">lil.gay</a> -
+                        </span></li>
+                <li><span><a title=" personal  blog " href="https://jlelse.dev/" target="_blank">jlelse.dev</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="http://neko.airforce/" target="_blank">neko.airforce</a> -
+                        </span></li>
+                <li><span><a title=" personal  blog " href="https://neko.dev/" target="_blank">neko.dev</a> -
+                        </span></li>
+                <li><span><a title=" personal  blog  anime " href="https://neko.fan/" target="_blank">neko.fan</a> -
+                        </span></li>
+                <li><span><a title=" personal  blog " href="https://neko.garden/" target="_blank">neko.garden</a> -
+                        </span></li>
+                <li><span><a title=" personal  blog  Japan " href="https://neko.life/" target="_blank">neko.life</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="http://neko.stream/" target="_blank">neko.stream</a> -
+                        </span></li>
+                <li><span><a title=" personal  blog " href="http://neko.style/" target="_blank">neko.style</a> -
+                        </span></li>
+                <li><span><a title=" personal " href="https://nigga.cc/" target="_blank">nigga.cc</a> -
+                        </span></li>
+                <li><span><a title=" personal  Japan " href="https://nil.day/" target="_blank">nil.day</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://pedantic.software/" target="_blank">pedantic.software</a> -
+                        </span></li>
+                <li><span><a title=" personal  art " href="https://pink.red/" target="_blank">pink.red</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://salejandro.me/" target="_blank">salejandro.me</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://samhenri.gold/" target="_blank">samhenri.gold</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://summer.dev/" target="_blank">summer.dev</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech  blog " href="https://tom.kobalt.dev/" target="_blank">tom.kobalt.dev</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech  blog " href="https://vanzasetia.site/" target="_blank">vanzasetia.site</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://volatile.engineering/" target="_blank">volatile.engineering</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech " href="https://xnaas.info/" target="_blank">xnaas.info</a> -
+                        </span></li>
+                <li><span><a title=" personal  tech  anime " href="https://xwx.moe/" target="_blank">xwx.moe</a> -
+                        </span></li>
+                <li><span>
+                        <h3 class="cat">Special thanks to these guys:</h3>
+                    </span></li>
+                <li><span><a title=" mirror  links  good-sites  goodsites  waifu " href="https://sites.baka.best/" target="_blank">sites.baka.best</a> -
+                        The first mirror of g/good-sites.</span></li>
+                <li><span><a title=" mirror  links  good-sites  goodsites  waifu " href="https://based.coom.tech/" target="_blank">based.coom.tech</a> -
+                        The current maintainer of the /g/ good sites project.</span></li>
+                <li><span><a title=" mirror  links  good-sites  goodsites  git " href="https://git.coom.tech/g/good-sites" target="_blank">git.coom.tech/g/good-sites</a> -
+                        The git respository for these links.</span></li>
+            </ul>
+        </div>
+    </div>
+    <br>
+
+    <div class="js">
+        <input class="antiwaifu" type="checkbox" store="nowaifu4u">
+        <span class="waifusvg">
+            <svg class="antiwaifu2" version="1.1" id="svg2" sodipodi:docname="noanime.svg"
+                inkscape:version="0.91 r13725" xmlns:dc="http://purl.org/dc/elements/1.1/"
+                xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:svg="http://www.w3.org/2000/svg"
+                xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+                xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40"
+                enable-background="new 0 0 993.192 196.141" xml:space="preserve" viewBox="0.03 0.10 40.57 41.00">
+                <g id="layer1" transform="translate(275.33002,-116.37377)" inkscape:groupmode="layer"
+                    inkscape:label="Layer 1">
+                    <g id="g4368" transform="translate(588.57146,-22.223358)">
+                        <ellipse id="ellipse4358" inkscape:export-xdpi="90" inkscape:export-ydpi="90" fill="#D40000"
+                            cx="-843.59" cy="159.191" rx="20.263" ry="20.49"> </ellipse>
+                        <ellipse id="ellipse4360" inkscape:export-xdpi="90" inkscape:export-ydpi="90" fill="#FFFFFF"
+                            cx="-843.59" cy="159.191" rx="17.469" ry="17.663"> </ellipse>
+                        <path id="path4362" inkscape:connector-curvature="0" display="none" fill="#FFFFFF"
+                            d="M-854.716,145.579l24.71,24.706			c-0.736,0.922-1.56,1.764-2.461,2.515l-24.704-24.706C-856.438,147.176-855.614,146.333-854.716,145.579z">
+                        </path>
+                        <g>
+                            <path
+                                d="M-829.873,147.274c-0.437-0.699-1.321-0.891-1.979-0.424l-4.404,3.102c0.185-1.947-1.3-3.72-2.446-3.72				c-0.628,0-1.167,0.391-1.419,0.959c-0.472-1.444-1.762-2.478-3.281-2.478c-1.521,0-2.813,1.034-3.287,2.478				c-0.251-0.568-0.791-0.959-1.418-0.959c-1.142,0-2.632,1.772-2.447,3.72l-4.404-3.102c-0.653-0.466-1.542-0.275-1.977,0.424				c-0.437,0.695-0.256,1.635,0.402,2.097l9.561,6.742l-2.143,12.555c-0.083,0.516,0.289,0.99,0.782,0.99c0.225,0,0.512,0,0.849,0				l-0.156,0.849l-6.016-1.252c-0.926-0.195-1.829,0.452-2.007,1.434c-0.185,0.984,0.42,1.943,1.348,2.138				c8.302,1.731,7.789,1.635,8.023,1.635c0.339,0,0.674-0.108,0.957-0.308c0.378-0.271,0.639-0.689,0.724-1.159l0.618-3.336				c0.168,0,1.007,0,1.178,0l0.615,3.336c0.085,0.47,0.35,0.889,0.727,1.159c0.285,0.2,0.616,0.308,0.955,0.308				c0.237,0-0.274,0.096,8.028-1.635c0.928-0.195,1.529-1.154,1.351-2.138c-0.181-0.982-1.084-1.629-2.012-1.434l-6.015,1.252				l-0.16-0.849c0.337,0,0.628,0,0.853,0c0.489,0,0.866-0.475,0.782-0.99l-2.143-12.555l9.561-6.742				C-829.615,148.909-829.438,147.969-829.873,147.274z M-841.1,153.374c-0.917,0-3.688,0-4.606,0l-4.177-2.948				c0.508-0.805,1.074-0.861,1.777-0.861c0.516,0,0.972-0.268,1.256-0.674c0.223,1.808,1.681,3.208,3.449,3.208				c1.762,0,3.22-1.4,3.447-3.208c0.281,0.406,0.74,0.674,1.256,0.674c0.699,0,1.267,0.057,1.774,0.861L-841.1,153.374z">
+                            </path>
+                        </g>
+                        <rect id="rect4364" x="-844.962" y="140.09" inkscape:export-xdpi="90" inkscape:export-ydpi="90"
+                            transform="matrix(0.7067 -0.7076 0.7076 0.7067 -360.0932 -550.187)" fill="#D40000"
+                            width="2.743" height="38.202"> </rect>
+                    </g>
+                </g>
+            </svg>
+        </span>
+        <label id="switch" class="switch">
+            <input type="checkbox" store="themes">
+            <span onclick="toggleTheme()" class="slider round"></span>
+        </label>
+    </div>
+</body>
+
+</html>

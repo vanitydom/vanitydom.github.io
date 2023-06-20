@@ -1,0 +1,228 @@
+{
+  "name": "Small / Joke Sites",
+  "sites": [
+	{
+      "name": "bestmotherfucking.website",
+      "href": "https://bestmotherfucking.website/",
+      "tags": [
+        "text",
+		"joke"
+      ],
+      "description": "The best motherfucking website on the web!"
+    },
+	{
+      "name": "cornhol.io",
+      "href": "https://cornhol.io/",
+      "tags": [
+        "Beavis and Butthead",
+        "cartoon"
+      ],
+      "description": "Text Art of the character Cornholio."
+    },
+	{
+      "name": "cumallover.me",
+      "href": "http://cumallover.me/",
+      "tags": [
+        "Lighting McQueen",
+		"Cars",
+		"joke"
+      ],
+      "description": "Displays a png of Lightning McQueen against a rainbow background."
+    },
+	{
+      "name": "cunny.company",
+      "href": "https://cunny.company/",
+      "tags": [
+        "anime",
+		"vtuber"
+      ],
+      "description": "Displays a Live2D model that stares at your cursor."
+    },
+	{
+      "name": "cunny.top",
+      "href": "https://cunny.top/",
+      "tags": [
+        "text"
+      ],
+      "description": "hello"
+    },
+	{
+      "name": "deathcult.fun",
+      "href": "https://www.deathcult.fun/",
+      "tags": [
+        "joke",
+		"retro"
+      ],
+      "description": "Site that welcomes you to the INTERNET DEATH-CULT of FUN."
+    },
+	{
+      "name": "disc0rd.xyz",
+      "href": "https://disc0rd.xyz/",
+      "tags": [
+        "random",
+        "video",
+        "memes",
+        "funny"
+      ],
+      "description": "Shows you a random video everytime you refresh."
+    },
+	{
+      "name": "investion.top",
+      "href": "https://investion.top/",
+      "tags": [
+        "gif"
+      ],
+      "description": "Has a gif of an 8-bit guy looking comfy in his room."
+    },
+	{
+      "name": "localnotes.page",
+      "href": "https://localnotes.page/",
+      "tags": [
+        "text"
+      ],
+      "description": "In browser notepad."
+    },
+	{
+      "name": "makefrontendshitagain.party",
+      "href": "https://makefrontendshitagain.party/",
+      "tags": [
+        "retro",
+        "geocities"
+      ],
+      "description": "A site that advocates for more soulful frontends."
+    },
+	{
+      "name": "naniso.re",
+      "href": "http://naniso.re/",
+      "tags": [
+        "Kill la Kill",
+        "anime",
+        "video",
+		"loop"
+      ],
+      "description": "A music video of Kill la Kill's Nonon. (plus others!)"
+    },
+	{
+      "name": "nazi.moe",
+      "href": "https://nazi.moe/",
+      "tags": [
+        "racism",
+        "joke",
+		"anime",
+		"video"
+      ],
+      "description": "Nazi anime girls."
+    },
+	{
+      "name": "neko.business",
+      "href": "https://neko.business/",
+      "tags": [
+        "image"
+      ],
+      "description": "Picture of furry fox."
+    },
+	{
+      "name": "neko.community",
+      "href": "https://neko.community/",
+      "tags": [
+        "image",
+		"anime"
+      ],
+      "description": "Community for neko lovers (with anime pictures)."
+    },
+	{
+      "name": "neko.pink",
+      "href": "https://neko.pink/",
+      "tags": [],
+      "description": "Some site that's under construction."
+    },
+	{
+      "name": "neko.pizza",
+      "href": "https://neko.pizza/",
+      "tags": [
+		"image",
+		"anime"
+	  ],
+      "description": "Picture of a catgirl eatings pizza."
+    },
+	{
+      "name": "neko.run",
+      "href": "https://neko.run/",
+      "tags": [
+        "image",
+		"sci-fi",
+		"random"
+      ],
+      "description": "Shows you a random Sci-Fi picture."
+    },
+	{
+      "name": "neko.tax",
+      "href": "https://neko.tax/",
+      "tags": [
+        "text",
+		"anime"
+      ],
+      "description": "Pay your taxes!!"
+    },
+	{
+      "name": "neko.website",
+      "href": "https://neko.website/",
+      "tags": [
+        "image"
+      ],
+      "description": "Picture of an ocean sunset."
+    },
+    {
+      "name": "nigga.party",
+      "href": "https://nigga.party/",
+      "tags": [
+        "racism",
+        "joke"
+      ],
+      "description": "What I can only assume is an \"advertisment\" for the 'Nigga Party'."
+    },
+	{
+      "name": "nigga.agency",
+      "href": "https://nigga.agency/",
+      "tags": [
+        "racism",
+        "joke"
+      ],
+      "description": "A clip of George Floyd playing and fps game."
+    },
+	{
+      "name": "nocss.club",
+      "href": "https://nocss.club/",
+      "tags": [
+        "webring",
+        "community",
+        "list"
+      ],
+      "description": "A site listing other sites with no CSS."
+    },
+	{
+      "name": "onwednesdayswewear.pink",
+      "href": "https://onwednesdayswewear.pink/",
+      "tags": [],
+      "description": "On wednesdays we wear pink. That's pretty much it."
+    },
+	{
+      "name": "satania.moe",
+      "href": "https://satania.moe/",
+      "tags": [
+        "anime"
+      ],
+      "description": "Fan site for the character Satania."
+    },
+	{
+      "name": "toto.africa",
+      "href": "https://toto.africa/",
+      "tags": [
+        "Youtube",
+        "video",
+        "music"
+      ],
+      "description": "Plays the music video for Toto's Africa."
+    }
+  ]
+}
