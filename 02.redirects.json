@@ -19,6 +19,26 @@
       "description": "Redirects to 28chan.org."
     },
 	{
+      "name": "cat.world",
+      "href": "http://cat.world/",
+      "tags": [
+        "animal",
+		"redirect"
+      ],
+      "description": "Redirects to a site for a cat rescue/sanctuary."
+    },
+	{
+      "name": "catgirls.moe",
+      "href": "http://www.catgirls.moe/",
+      "tags": [
+        "animal",
+		"redirect",
+		"cosplay",
+		"deviantART"
+      ],
+      "description": "Redirects to a DeviantART cosplay image."
+    },
+	{
       "name": "cheese.pizza",
       "href": "http://cheese.pizza/",
       "tags": [
@@ -112,6 +132,17 @@
       "description": "Redirects to cock.li (again)."
     },
 	{
+      "name": "flandre.moe",
+      "href": "http://flandre.moe/",
+      "tags": [
+        "redirect",
+		"anime",
+		"booru",
+		"Touhou"
+      ],
+      "description": "Redirects to a booru with images for Flandre Scarlet."
+    },
+	{
       "name": "islam.apartments",
       "href": "https://islam.apartment/",
       "tags": [
@@ -186,6 +217,15 @@
       "description": "Redirects to the Wikipedia page of <i>Justin Trudeau</i>."
     },
 	{
+      "name": "nazi.baby",
+      "href": "https://nigga.baby/",
+      "tags": [
+        "redirect",
+		"Telegram"
+      ],
+      "description": "Redirects to some Telegram ring."
+    },
+	{
       "name": "neko.bio",
       "href": "https://neko.bio/",
       "tags": [
@@ -223,7 +263,7 @@
     },
 	{
       "name": "nigga.bond",
-      "href": "https://nigga.bond/",
+      "href": "http://nigga.bond/",
       "tags": [
         "redirect",
         "biography"
@@ -239,6 +279,17 @@
       "description": "Redirects to a bed time calculator."
     },
 	{
+      "name": "remilia.moe",
+      "href": "http://remilia.moe/",
+      "tags": [
+        "redirect",
+		"anime",
+		"booru",
+		"Touhou"
+      ],
+      "description": "Redirects to a booru with images for Remilia Scarlet."
+    },
+	{
       "name": "tfwno.gf",
       "href": "https://tfwno.gf/",
       "tags": [
@@ -246,6 +297,24 @@
         "email"
       ],
       "description": "Redirects to cock.li (once more)."
+    },
+	{
+      "name": "tsundere.moe",
+      "href": "https://tsundere.moe/",
+      "tags": [
+        "anime",
+        "redirect"
+      ],
+      "description": "Redirects to someone's blog."
+    },
+	{
+      "name": "vanity.domains",
+      "href": "https://vanity.domains/",
+      "tags": [
+        "redirect",
+        "business"
+      ],
+      "description": "Redirects to vanitydomains.com."
     },
 	{
       "name": "waifu.club",

@@ -2,6 +2,16 @@
   "name": "Small / Joke Sites",
   "sites": [
 	{
+      "name": "asuka.moe",
+      "href": "https://asuka.moe/",
+      "tags": [
+        "image",
+		"anime",
+		"Neon Genesis Evangelion"
+      ],
+      "description": "A picture of Asuka Langley from Eva."
+    },
+	{
       "name": "bestmotherfucking.website",
       "href": "https://bestmotherfucking.website/",
       "tags": [
@@ -67,6 +77,26 @@
       "description": "Shows you a random video everytime you refresh."
     },
 	{
+      "name": "ikamusu.me",
+      "href": "https://ikamusu.me/",
+      "tags": [
+        "anime",
+		"image",
+		"Shinryaku! Ika Musume"
+      ],
+      "description": "A picture of Ika Musume (Squid Girl)."
+    },
+	{
+      "name": "inaba.moe",
+      "href": "https://inaba.moe/",
+      "tags": [
+        "image",
+		"anime",
+		"Touhou"
+      ],
+      "description": "Two of the best bunny girls looking badass."
+    },
+	{
       "name": "investion.top",
       "href": "https://investion.top/",
       "tags": [
@@ -81,6 +111,16 @@
         "text"
       ],
       "description": "In browser notepad."
+    },
+	{
+      "name": "lolicatgirls.moe",
+      "href": "https://lolicatgirls.moe/",
+      "tags": [
+        "troll",
+		"joke",
+		"video"
+      ],
+      "description": "I'm playing the game."
     },
 	{
       "name": "makefrontendshitagain.party",
@@ -207,6 +247,26 @@
       "description": "On wednesdays we wear pink. That's pretty much it."
     },
 	{
+      "name": "rei.moe",
+      "href": "https://rei.moe/",
+      "tags": [
+        "image",
+		"anime",
+		"Neon Genesis Evangelion"
+      ],
+      "description": "A picture of Rei Ayanami from Eva."
+    },
+	{
+      "name": "reisen.moe",
+      "href": "http://reisen.moe/",
+      "tags": [
+        "image",
+		"anime",
+		"Touhou"
+      ],
+      "description": "yeah."
+    },
+	{
       "name": "satania.moe",
       "href": "https://satania.moe/",
       "tags": [
@@ -223,6 +283,44 @@
         "music"
       ],
       "description": "Plays the music video for Toto's Africa."
+    },
+	{
+	  "name": "tsunde.re",
+      "href": "https://tsunde.re/",
+      "tags": [
+        "anime",
+        "joke"
+      ],
+      "description": "Joke 'tsundere' service provider."
+    },
+	{
+      "name": "uguu.moe",
+      "href": "https://uguu.moe/",
+      "tags": [
+        "anime",
+		"Kanon",
+		"joke"
+      ],
+      "description": "Am I kawaii?"
+    },
+	{
+      "name": "waifu.moe",
+      "href": "http://waifu.moe/",
+      "tags": [
+        "anime",
+		"image"
+      ],
+      "description": "Serves a picture of a robot anime girl."
+    },
+	{
+      "name": "yukari.moe",
+      "href": "http://yukari.moe/",
+      "tags": [
+        "anime",
+		"video",
+		"Vocaloid"
+      ],
+      "description": "Video of Vocaloid Yukari singing."
     }
   ]
 }

@@ -38,6 +38,16 @@
       "description": "Imageboard."
     },
 	{
+      "name": "botsin.space",
+      "href": "https://botsin.space/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
       "name": "brainworm.rodeo",
       "href": "http://brainworm.rodeo/",
       "tags": [
@@ -175,6 +185,16 @@
       "description": "Imageboard."
     },
 	{
+      "name": "lonely.town",
+      "href": "https://lonely.town/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
       "name": "mastodon.green",
       "href": "https://mastodon.green/",
       "tags": [
@@ -233,6 +253,14 @@
 		"pleroma"
       ],
       "description": "Pleroma instance."
+    },
+	{
+      "name": "niggasin.space",
+      "href": "https://niggasin.space/",
+      "tags": [
+        "forum"
+      ],
+      "description": ""
     },
 	{
       "name": "queer.party",
@@ -311,6 +339,15 @@
 		"message"
 	  ],
       "description": "Tox protocol."
+    },
+	{
+      "name": "toyhou.se",
+      "href": "https://toyhou.se/",
+      "tags": [
+        "art",
+		"community"
+      ],
+      "description": "Private art community."
     },
 	{
       "name": "trashchan.xyz",

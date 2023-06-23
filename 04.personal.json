@@ -19,6 +19,14 @@
       "description": ""
     },
 	{
+      "name": "catgirl.moe",
+      "href": "https://catgirl.moe/",
+      "tags": [
+        "personal"
+      ],
+      "description": ""
+    },
+	{
       "name": "cosmo.red",
       "href": "https://cosmo.red/",
       "tags": [
@@ -77,6 +85,15 @@
       "description": ""
     },
 	{
+      "name": "desu.moe",
+      "href": "https://desu.moe/",
+      "tags": [
+        "anime",
+		"personal"
+      ],
+      "description": ""
+    },
+	{
       "name": "doll.house",
       "href": "https://doll.house/",
       "tags": [
@@ -125,6 +142,42 @@
         "personal",
 		"blog"
       ],
+      "description": ""
+    },
+	{
+      "name": "kagami.moe",
+      "href": "https://kagami.moe/",
+      "tags": [
+        "personal",
+		"blog",
+		"tech",
+		"China"
+      ],
+      "description": ""
+    },
+	{
+      "name": "marisa.moe",
+      "href": "https://marisa.moe/",
+      "tags": [
+        "personal",
+		"tech"
+	  ],
+      "description": ""
+    },
+	{
+      "name": "nazi.bio",
+      "href": "http://nazi.bio/",
+      "tags": [
+        "personal"
+	  ],
+      "description": ""
+    },
+	{
+      "name": "nazi.website",
+      "href": "http://nazi.website/",
+      "tags": [
+        "personal"
+	  ],
       "description": ""
     },
 	{
@@ -222,6 +275,24 @@
       "tags": [
         "personal",
 		"art"
+      ],
+      "description": ""
+    },
+	{
+      "name": "reimu.moe",
+      "href": "https://reimu.moe/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
+      "name": "rumia.moe",
+      "href": "https://rumia.moe/",
+      "tags": [
+        "personal",
+		"blog"
       ],
       "description": ""
     },

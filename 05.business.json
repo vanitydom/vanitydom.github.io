@@ -1,1 +1,68 @@
-{}
+{
+	"name": "Business Sites",
+	"sites": [
+	  {
+		"name": "cunny.store",
+		"href": "http://cunny.store/",
+		"tags": [
+			"store",
+			"shopping"
+		],
+      "description": "An online clothes store with a very unfortunate name."
+      },
+	  {
+		"name": "cunny.store",
+		"href": "http://cunny.store/",
+		"tags": [
+			"store",
+			"shopping"
+		],
+      "description": "An online clothes store with a very unfortunate name."
+      },
+	  {
+        "name": "neko.page",
+        "href": "https://neko.page/",
+        "tags": [
+			"tech",
+			"business",
+			"animal"
+        ],
+        "description": "Documents for some tech company named 'Noraneko Inc'."
+	  },
+	  {
+      "name": "neko.studio",
+      "href": "https://neko.studio/",
+      "tags": [
+		"tech",
+		"business"
+      ],
+      "description": "Some kind of tech site(???)"
+    },
+	{
+      "name": "red.blue",
+      "href": "https://www.red.blue/",
+      "tags": [
+        "business",
+		"tech"
+      ],
+      "description": "Website to a global venture capital firm."
+	  },
+	  {
+		"name": "reidsoap.shop",
+		"href": "https://reidsoap.shop/",
+		"tags": [
+			"store",
+			"shop"
+		],
+		"description": "Online soap store."
+	  },
+	  {
+		"name": "private.life",
+		"href": "https://private.life/",
+		"tags": [
+			"business"
+		],
+		"description": ""
+	  }
+   ]
+}

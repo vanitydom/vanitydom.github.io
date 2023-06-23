@@ -38,6 +38,15 @@
       "description": "Sites less than 1mb."
     },
 	{
+      "name": "ani.me",
+      "href": "http://ani.me/",
+      "tags": [
+        "anime",
+        "streaming"
+      ],
+      "description": "Anime streaming site."
+    },
+	{
       "name": "based.cooking",
       "href": "http://based.cooking/",
       "tags": [
@@ -86,8 +95,23 @@
 	{
       "name": "coom.tech",
       "href": "http://coom.tech/",
-      "tags": [],
+      "tags": [
+		"tech",
+		"pornography"
+	  ],
       "description": "Main site for the now dead /cumg/ on /g/."
+    },
+	{
+      "name": "coomer.party",
+      "href": "http://coomer.party/",
+      "tags": [
+		"archive",
+		"pornography",
+		"OnlyFans",
+		"Fansly",
+		"image"
+	  ],
+      "description": "Public archiver for OnlyFans and Fansly content."
     },
 	{
       "name": "cubari.moe",
@@ -100,15 +124,6 @@
       "description": "Image proxy/viewer that displays pictures from numerous sites in comic book form."
     },
 	{
-      "name": "cunny.store",
-      "href": "http://cunny.store/",
-      "tags": [
-        "store",
-		"shopping"
-      ],
-      "description": "An online clothes store with a very unfortunate name."
-    },
-	{
       "name": "fedora.email",
       "href": "https://fedora.email/",
       "tags": [
@@ -117,12 +132,41 @@
       "description": "E-mail service."
     },
 	{
+      "name": "jiggie.fun",
+      "href": "https://jiggie.fun/",
+      "tags": [
+        "puzzle",
+		"game"
+      ],
+      "description": "Online jigsaw puzzle game."
+    },
+	{
       "name": "jpg.pet",
       "href": "https://jpg.pet/",
       "tags": [
         "filehost"
       ],
       "description": "Image host."
+    },
+	{
+      "name": "kemono.party",
+      "href": "http://kemono.party/",
+      "tags": [
+		"archive",
+		"pornography",
+		"image",
+		"art",
+		"Patreon",
+		"Pixiv Fanbox",
+		"Discord",
+		"Fantia",
+		"Afdian",
+		"Boosty",
+		"DLsite",
+		"Gumroad",
+		"SubscribeStar"
+	  ],
+      "description": "Public archiver for a ton of different paywalled sites."
     },
 	{
       "name": "lobste.rs",
@@ -134,6 +178,26 @@
       "description": "Lobsters is a computing-focused community centered around link aggregation and discussion."
     },
 	{
+      "name": "patchouli.moe",
+      "href": "http://patchouli.moe/",
+      "tags": [
+        "filehost",
+        "anime",
+		"Touhou"
+      ],
+      "description": "Patchouli/Touhou themed file host."
+    },
+	{
+      "name": "pepperoni.pizza",
+      "href": "http://pepperoni.pizza/",
+      "tags": [
+        "food",
+        "game",
+		"poll"
+      ],
+      "description": "Pizza themed site with a poll and games."
+    },
+	{
       "name": "playclassic.games",
       "href": "http://playclassic.games/",
       "tags": [
@@ -141,6 +205,23 @@
         "retro"
       ],
       "description": "Download or play retro games."
+    },
+	{
+      "name": "porno.pictures",
+      "href": "http://porno.pictures/",
+      "tags": [
+        "pornography",
+        "image"
+      ],
+      "description": "Porn pictures."
+    },
+	{
+      "name": "porno.pet",
+      "href": "http://porno.pictures/",
+      "tags": [
+        "pornography"
+      ],
+      "description": "Russian porn site. (Lots of ads, be careful while browsing)"
     },
 	{
       "name": "mil.house",
@@ -163,16 +244,6 @@
       "description": "Minecraft skin host."
     },
 	{
-      "name": "neko.page",
-      "href": "https://neko.page/",
-      "tags": [
-		"tech",
-		"business",
-		"animal"
-      ],
-      "description": "Documents for some tech company named 'Noraneko Inc'."
-    },
-	{
       "name": "neko.porn",
       "href": "https://neko.porn/",
       "tags": [
@@ -181,15 +252,6 @@
 		"cosplay"
       ],
       "description": "Porn site for anime cosplay."
-    },
-	{
-      "name": "neko.studio",
-      "href": "https://neko.studio/",
-      "tags": [
-		"tech",
-		"business"
-      ],
-      "description": "Some kind of tech site(???)"
     },
 	{
       "name": "neko.vision",
@@ -210,15 +272,6 @@
 		"business"
       ],
       "description": "Indie game studio."
-    },
-	{
-      "name": "red.blue",
-      "href": "https://www.red.blue/",
-      "tags": [
-        "business",
-		"tech"
-      ],
-      "description": "Website to a global venture capital firm."
     },
 	{
       "name": "searx.space",
@@ -266,6 +319,15 @@
       "description": "A wikipedia page dedicated to 'soyjak lore'."
     },
 	{
+      "name": "taiga.moe",
+      "href": "https://taiga.moe/",
+      "tags": [
+        "Anime",
+        "tech"
+      ],
+      "description": "Hosts a desktop program for anime lists."
+    },
+	{
       "name": "trace.moe",
       "href": "https://trace.moe/",
       "tags": [
@@ -301,6 +363,16 @@
         "animal"
       ],
       "description": "Spanish site about the animals at Barcelona zoo."
+    },
+	{
+      "name": "yande.re",
+      "href": "http://yande.re/",
+      "tags": [
+        "anime",
+		"image",
+		"booru"
+      ],
+      "description": "Anime booru."
     }
   ]
 }
