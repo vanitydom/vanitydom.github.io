@@ -1,6 +1,5 @@
 node_modules
+testsite
 # Remove build artifacts
 www/index.html
 www/random.js
-test.py
-testfile.json

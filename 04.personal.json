@@ -111,6 +111,16 @@
       "description": ""
     },
 	{
+      "name": "hatsune.moe",
+      "href": "https://hatsune.moe/",
+      "tags": [
+        "personal",
+		"art",
+		"anime
+      ],
+      "description": ""
+    },
+	{
       "name": "hen.re",
       "href": "https://hen.re/",
       "tags": [
@@ -152,6 +162,17 @@
 		"blog",
 		"tech",
 		"China"
+      ],
+      "description": ""
+    },
+	{
+      "name": "kaworu.moe",
+      "href": "https://kaworu.moe/",
+      "tags": [
+        "personal",
+		"blog",
+		"tech",
+		"anime"
       ],
       "description": ""
     },

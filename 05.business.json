@@ -20,6 +20,24 @@
       "description": "An online clothes store with a very unfortunate name."
       },
 	  {
+      "name": "ground.news",
+      "href": "https://ground.news/",
+      "tags": [
+        "business",
+		"news"
+      ],
+      "description": "Subscription based service that compiles different news sources for an unbias reading of events."
+	  },
+	  {
+      "name": "m.io",
+      "href": "https://www.m.io/",
+      "tags": [
+        "business",
+		"tech"
+      ],
+      "description": "Chat unifier."
+	  },
+	  {
         "name": "neko.page",
         "href": "https://neko.page/",
         "tags": [

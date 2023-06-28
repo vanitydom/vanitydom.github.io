@@ -132,6 +132,16 @@
       "description": "A site that advocates for more soulful frontends."
     },
 	{
+      "name": "mio.moe",
+      "href": "http://mio.moe/",
+      "tags": [
+        "anime",
+        "text",
+		"Nichijou"
+      ],
+      "description": "ASCII art of Mio from Nichijou."
+    },
+	{
       "name": "naniso.re",
       "href": "http://naniso.re/",
       "tags": [
