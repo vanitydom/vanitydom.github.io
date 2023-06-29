@@ -359,6 +359,16 @@
       "description": "Imageboard."
     },
 	{
+      "name": "tsukihi.me",
+      "href": "https://tsukihi.me/",
+      "tags": [
+        "mastodon",
+        "fediverse",
+		"microblog"
+      ],
+      "description": "Mastodon instance."
+    },
+	{
       "name": "tvch.moe",
       "href": "http://tvch.moe/",
       "tags": [

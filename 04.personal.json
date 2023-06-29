@@ -85,6 +85,16 @@
       "description": ""
     },
 	{
+      "name": "daria.photo",
+      "href": "https://daria.photo/",
+      "tags": [
+        "personal",
+		"photography",
+		"Russia"
+      ],
+      "description": ""
+    },
+	{
       "name": "desu.moe",
       "href": "https://desu.moe/",
       "tags": [
@@ -111,12 +121,21 @@
       "description": ""
     },
 	{
+      "name": "haka.se",
+      "href": "https://haka.se/",
+      "tags": [
+        "personal",
+		"tech"
+      ],
+      "description": ""
+    },
+	{
       "name": "hatsune.moe",
       "href": "https://hatsune.moe/",
       "tags": [
         "personal",
 		"art",
-		"anime
+		"anime"
       ],
       "description": ""
     },
@@ -314,6 +333,16 @@
       "tags": [
         "personal",
 		"blog"
+      ],
+      "description": ""
+    },
+	{
+      "name": "sakura.moe",
+      "href": "https://sakura.moe/",
+      "tags": [
+        "personal",
+		"tech",
+		"anime"
       ],
       "description": ""
     },

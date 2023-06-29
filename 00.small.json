@@ -2,6 +2,16 @@
   "name": "Small / Joke Sites",
   "sites": [
 	{
+      "name": "420.moe",
+      "href": "https://420.moe/",
+      "tags": [
+        "image",
+		"anime",
+		"music"
+      ],
+      "description": "Anime girls smoking weed set to music."
+    },
+	{
       "name": "asuka.moe",
       "href": "https://asuka.moe/",
       "tags": [
@@ -77,6 +87,25 @@
       "description": "Shows you a random video everytime you refresh."
     },
 	{
+      "name": "dog.dance",
+      "href": "https://dog.dance/",
+      "tags": [
+        "animal",
+		"image"
+      ],
+      "description": "Dude showing off pictures of his dogs."
+    },
+	{
+      "name": "hanekawa.moe",
+      "href": "https://hanekawa.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"Monogatari"
+      ],
+      "description": "Image Gallery dedicated to Tsubasa Hanekawa."
+    },
+	{
       "name": "ikamusu.me",
       "href": "https://ikamusu.me/",
       "tags": [
@@ -111,6 +140,16 @@
         "text"
       ],
       "description": "In browser notepad."
+    },
+	{
+      "name": "loli.dance",
+      "href": "https://loli.dance/",
+      "tags": [
+		"video",
+		"anime",
+		"Prisma Illya"
+      ],
+      "description": "Video of the Prisma Illya girls dancing."
     },
 	{
       "name": "lolicatgirls.moe",
@@ -250,6 +289,36 @@
       ],
       "description": "A site listing other sites with no CSS."
     },
+		{
+      "name": "nyanpa.su",
+      "href": "https://nyanpa.su/",
+      "tags": [
+        "anime",
+		"image",
+		"Non Non Biyori"
+      ],
+      "description": "Image of Renge."
+    },
+	{
+      "name": "nyanpasu.moe",
+      "href": "https://nyanpasu.moe/",
+      "tags": [
+        "anime",
+		"text",
+		"Non Non Biyori"
+      ],
+      "description": "Nyanpasu o/."
+    },
+	{
+      "name": "nyoron.moe",
+      "href": "https://nyoron.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"The Melancholy of Haruhi Suzumiya"
+      ],
+      "description": "Nyoro~n."
+    },
 	{
       "name": "onwednesdayswewear.pink",
       "href": "https://onwednesdayswewear.pink/",
@@ -280,9 +349,19 @@
       "name": "satania.moe",
       "href": "https://satania.moe/",
       "tags": [
-        "anime"
+        "anime",
+		"Gabriel Dropout"
       ],
       "description": "Fan site for the character Satania."
+    },
+	{
+      "name": "shinobu.moe",
+      "href": "https://shinobu.moe/",
+      "tags": [
+        "anime",
+		"Monogatari"
+      ],
+      "description": "Someone's 'frontpage' + cool sites listed."
     },
 	{
       "name": "toto.africa",
@@ -312,6 +391,15 @@
 		"joke"
       ],
       "description": "Am I kawaii?"
+    },
+	{
+      "name": "usagi.moe",
+      "href": "https://usagi.moe/",
+      "tags": [
+        "anime",
+		"GochiUsa"
+      ],
+      "description": "Frontpage for a Pixiv gallery of Sharo Kirima."
     },
 	{
       "name": "waifu.moe",

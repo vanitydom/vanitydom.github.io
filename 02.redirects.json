@@ -217,6 +217,16 @@
       "description": "Redirects to the Wikipedia page of <i>Justin Trudeau</i>."
     },
 	{
+      "name": "minecraft.gallery",
+      "href": "http://minecraft.gallery/",
+      "tags": [
+        "redirect",
+		"video game",
+		"Minecraft"
+      ],
+      "description": "Redirects to a list for the 67 best Minecraft skins."
+    },
+	{
       "name": "nazi.baby",
       "href": "https://nigga.baby/",
       "tags": [
