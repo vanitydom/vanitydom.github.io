@@ -57,6 +57,15 @@
       "description": "Food recipes curated by Luke Smith."
     },
 	{
+      "name": "because.moe",
+      "href": "https://because.moe/",
+      "tags": [
+        "anime",
+		"search"
+      ],
+      "description": "Lets you find which legal sites have certain anime."
+    },
+	{
       "name": "booru.soy",
       "href": "http://booru.soy/",
       "tags": [
@@ -74,6 +83,15 @@
         "anime"
       ],
       "description": "Anime themed file host."
+    },
+	{
+      "name": "chibisafe.moe",
+      "href": "http://chibisafe.moe/",
+      "tags": [
+        "filehost",
+        "anime"
+      ],
+      "description": "Anime themed file host (requires an account)."
     },
 	{
       "name": "cocaine.ninja",
@@ -169,6 +187,16 @@
       "description": "Public archiver for a ton of different paywalled sites."
     },
 	{
+      "name": "listen.moe",
+      "href": "https://listen.moe/",
+      "tags": [
+        "anime",
+		"audio",
+		"Japan"
+      ],
+      "description": "Anime-themed radio."
+    },
+	{
       "name": "lobste.rs",
       "href": "https://lobste.rs/",
       "tags": [
@@ -176,6 +204,16 @@
         "computer"
       ],
       "description": "Lobsters is a computing-focused community centered around link aggregation and discussion."
+    },
+	{
+      "name": "paimon.moe",
+      "href": "http://paimon.moe/",
+      "tags": [
+        "anime",
+		"Gneshin Impact",
+		"information"
+      ],
+      "description": "Genshin Impact help site."
     },
 	{
       "name": "patchouli.moe",
@@ -233,6 +271,16 @@
       "description": "Site dedicated to from memory drawings of Milhouse."
     },
 	{
+      "name": "monthly.moe",
+      "href": "https://monthly.moe/",
+      "tags": [
+		"anime",
+		"chart",
+		"info"
+      ],
+      "description": "Lists seasonal anime for the month and their episode air dates."
+    },
+	{
       "name": "neko.center",
       "href": "https://neko.center/",
       "tags": [
@@ -274,12 +322,31 @@
       "description": "Indie game studio."
     },
 	{
+      "name": "openings.moe",
+      "href": "https://openings.moe/",
+      "tags": [
+        "video",
+		"anime",
+		"list"
+      ],
+      "description": "Hosts anime openings and closings."
+    },
+	{
       "name": "searx.space",
       "href": "https://searx.space/",
       "tags": [
         "technology"
       ],
       "description": "Online and offline Searx instances."
+    },
+	{
+      "name": "senpai.moe",
+      "href": "https://senpai.moe/",
+      "tags": [
+        "info",
+		"anime"
+      ],
+      "description": "Provides seasonal anime charts with info."
     },
 	{
       "name": "sizeof.cat",
@@ -299,6 +366,15 @@
 		"politics"
 	  ],
       "description": "A good news aggregator"
+    },
+	{
+      "name": "slow.pics",
+      "href": "https://slow.pics/",
+      "tags": [
+        "file host",
+		"image"
+      ],
+      "description": "Image host."
     },
 	{
       "name": "soyjak.download",
@@ -322,10 +398,21 @@
       "name": "taiga.moe",
       "href": "https://taiga.moe/",
       "tags": [
-        "Anime",
+        "anime",
         "tech"
       ],
       "description": "Hosts a desktop program for anime lists."
+    },
+	{
+      "name": "thewiki.moe",
+      "href": "https://thewiki.moe/",
+      "tags": [
+        "anime",
+        "tech",
+		"piracy",
+		"information"
+      ],
+      "description": "Very helpful wiki for anime newbies."
     },
 	{
       "name": "trace.moe",

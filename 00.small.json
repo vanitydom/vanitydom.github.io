@@ -7,7 +7,8 @@
       "tags": [
         "image",
 		"anime",
-		"music"
+		"music",
+		"weed"
       ],
       "description": "Anime girls smoking weed set to music."
     },
@@ -29,6 +30,17 @@
 		"joke"
       ],
       "description": "The best motherfucking website on the web!"
+    },
+	{
+      "name": "blazeti.me",
+      "href": "https://blazeti.me/",
+      "tags": [
+		"joke",
+		"anime",
+		"video",
+		"Nichijou"
+      ],
+      "description": "Nichijou girls getting high (plus others)."
     },
 	{
       "name": "cornhol.io",
@@ -106,6 +118,44 @@
       "description": "Image Gallery dedicated to Tsubasa Hanekawa."
     },
 	{
+      "name": "harime.ichi.moe",
+      "href": "https://harime.ichi.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"Kill la Kill"
+      ],
+      "description": "A slideshow of Harime images set to music."
+    },
+	{
+      "name": "headp.at",
+      "href": "https://headp.at/",
+      "tags": [
+        "anime",
+		"image"
+      ],
+      "description": "It's anime girls getting headpats."
+    },
+	{
+      "name": "hestia.dance",
+      "href": "https://hestia.dance/",
+      "tags": [
+        "anime",
+		"image",
+		"Danmachi"
+      ],
+      "description": "My shiny teeth and me~."
+    },
+	{
+      "name": "husbando.moe",
+      "href": "https://husbando.moe/",
+      "tags": [
+        "anime",
+		"video"
+      ],
+      "description": "Hot anime husbandos."
+    },
+	{
       "name": "ikamusu.me",
       "href": "https://ikamusu.me/",
       "tags": [
@@ -132,6 +182,36 @@
         "gif"
       ],
       "description": "Has a gif of an 8-bit guy looking comfy in his room."
+    },
+	{
+      "name": "kaka.moe",
+      "href": "https://kaka.moe/",
+      "tags": [
+        "anime",
+		"video",
+		"Monogatari"
+      ],
+      "description": "Shinobu MAD."
+    },
+	{
+      "name": "kumin.dance",
+      "href": "https://localnotes.page/",
+      "tags": [
+        "anime",
+		"video",
+		"Chuunibyou"
+      ],
+      "description": "Kumin dancing to dubstep."
+    },
+	{
+      "name": "leeksp.in",
+      "href": "https://leeksp.in/",
+      "tags": [
+        "video",
+		"audio",
+		"anime"
+      ],
+      "description": "An internet classic."
     },
 	{
       "name": "localnotes.page",
@@ -162,6 +242,15 @@
       "description": "I'm playing the game."
     },
 	{
+      "name": "lolisleep.moe",
+      "href": "https://lolisleep.moe/",
+      "tags": [
+		"audio",
+		"anime"
+      ],
+      "description": "Kinda feel like killing myself after listening to this one."
+    },
+	{
       "name": "makefrontendshitagain.party",
       "href": "https://makefrontendshitagain.party/",
       "tags": [
@@ -169,6 +258,26 @@
         "geocities"
       ],
       "description": "A site that advocates for more soulful frontends."
+    },
+	{
+      "name": "megumin.love",
+      "href": "https://megumin.love/",
+      "tags": [
+        "anime",
+        "audio",
+		"Konosuba"
+      ],
+      "description": "Megumin site that tracks how many people click the button in the center."
+    },
+	{
+      "name": "miia.moe",
+      "href": "https://miia.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"Monster Musume"
+      ],
+      "description": "A picture of Miia that keeps count of how many times people have clicked on her."
     },
 	{
       "name": "mio.moe",
@@ -326,6 +435,16 @@
       "description": "On wednesdays we wear pink. That's pretty much it."
     },
 	{
+      "name": "papi.moe",
+      "href": "https://papi.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"Monster Musume"
+      ],
+      "description": "A picture of Papi that keeps count of how many times people have clicked on her."
+    },
+	{
       "name": "rei.moe",
       "href": "https://rei.moe/",
       "tags": [
@@ -355,6 +474,17 @@
       "description": "Fan site for the character Satania."
     },
 	{
+      "name": "sayori.wtf",
+      "href": "https://sayori.wtf/",
+      "tags": [
+        "anime",
+		"visual novel",
+		"video",
+		"Doki Doki Literature Club"
+      ],
+      "description": "A video of the funniest thing to ever happen in DDLC."
+    },
+	{
       "name": "shinobu.moe",
       "href": "https://shinobu.moe/",
       "tags": [
@@ -362,6 +492,26 @@
 		"Monogatari"
       ],
       "description": "Someone's 'frontpage' + cool sites listed."
+    },
+	{
+      "name": "smug.moe",
+      "href": "https://smug.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"music"
+      ],
+      "description": "Smug anime girls."
+    },
+	{
+      "name": "suu.moe",
+      "href": "https://suu.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"Monster Musume"
+      ],
+      "description": "A picture of Suu that keeps count of how many times people have clicked on her."
     },
 	{
       "name": "toto.africa",
@@ -409,6 +559,17 @@
 		"image"
       ],
       "description": "Serves a picture of a robot anime girl."
+    },
+	{
+      "name": "wanwan.moe",
+      "href": "https://wanwan.moe/",
+      "tags": [
+        "anime",
+		"image",
+		"music",
+		"Touhou"
+      ],
+      "description": "Momiji dancin' to some music."
     },
 	{
       "name": "yukari.moe",

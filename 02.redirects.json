@@ -206,6 +206,16 @@
       "description": "Redirects to jpg.pet."
     },
 	{
+      "name": "kotori.moe",
+      "href": "https://kotori.moe/",
+      "tags": [
+        "Twitter",
+		"redirect",
+		"anime"
+      ],
+      "description": "Twitter redirect."
+    },
+	{
       "name": "liar.com",
       "href": "https://liar.com/",
       "tags": [
